@@ -1,0 +1,497 @@
+Ele.me's Privacy Policy
+Ele.me's Basic Function Privacy Policy
+Update date: July 8, 2024
+Effective date: July 15, 2024
+[Introduction]
+Welcome to use our products and services! We are well aware of the significance of your personal information to you. Your trust is of great importance to us. We will strictly abide by the requirements of laws and regulations and take corresponding security protection measures, dedicated to ensuring the security and controllability of your personal information. In view of this, Ele.me service providers (or simply ")
+We
+"
+This "Ele.me Basic Functions Privacy Policy" (hereinafter referred to as "this Policy/this Privacy Policy") is formulated to help you fully understand how we collect, use, share, store and protect your personal information during your use of our products and services, as well as how you can manage your personal information, so that you can make appropriate choices better.
+Before you start using our products and services, please be sure to read and understand this policy carefully, especially focusing on us
+Bold/Bold underline
+Make sure you fully understand and agree to the terms of the logo before starting to use it.
+According to the "Regulations on the Scope of Necessary Personal Information for Common Types of Mobile Internet Applications", this App belongs to the category of food delivery applications, with the basic function service being "food purchase and delivery". The necessary personal information includes the mobile phone number of the registered user, the name (title), address, contact phone number of the recipient, payment time, payment amount, and payment channel
+Such as
+Payment information. Your agreement to this Privacy Policy only indicates your knowledge and consent to the collection and processing of necessary information when using the basic functions of purchasing and delivering food, retail and other categories of goods. It does not mean that you agree to the collection and processing of personal information by the extended functions. The collection of personal information by the extended functions will be separately subject to your consent when you use the specific functions.
+This policy will help you understand the following:
+I. Scope of Application
+Ii. Information Collection and Use
+Iii. Partners involved in the use of data and the transfer or disclosure of personal information
+Iv. Your Rights
+V. Information Storage
+Vi. Policy Updates
+Vii. Protection of Minors
+Viii. Contact Us
+Appendix: Relevant Definitions
+I. Scope of Application
+This policy applies to the products or services we provide, including the Ele.me website, mobile client, mini-program, and all products and services we offer you in new forms that emerge with technological development.
+Except for the relevant processing activities described in this policy, this policy does not apply to services provided to you by other third parties (" other third parties ", including but not limited to your counterparty to the transaction, any third-party websites and third-party service providers), which are subject to the privacy policies or other personal information collection and use rules separately explained to you by them.
+For example
+When you join as a member of a seller or brand, the use of member information by such sellers or brands shall be subject to the rules specifically specified to you, including marketing to you.
+Ii. Information Collection and Use
+To achieve the basic functions of providing you with our products and/or services and to fulfill the obligations stipulated by laws and regulations, you must authorize us to collect and use the necessary information.
+If you refuse to provide the corresponding information, you will not be able to use the corresponding products and/or services normally
+.
+The main function of Ele.me is food delivery. The specific functional scenarios we will provide for you include:
+(1
+Help you become our user
+one
+Account basic services
+To comply with the requirements of laws and regulations, when you register as our user, you need to provide
+Mobile phone number
+To create an Ele.me account. If you only need to use the browsing and search services, you may choose not to register as our user and provide the above information. To ensure that we are providing services for you personally, we may verify your identity based on the information you provide above.
+When you use Ele.me, to maintain your basic information and improve your service experience, you can provide other information to complete your online identity verification information (such as profile picture, nickname, etc.)
+Login password
+"
+Among them, if you provide a nickname and profile picture, your nickname and profile picture will be publicly displayed in the evaluation, sharing and other interactive scenarios.
+If you already have an Ele.me account, we may display your above-mentioned personal information in the Ele.me platform services, as well as the operations you have performed on the Ele.me platform or in the products and services associated with your Ele.me platform account
+You can use the products or services provided by us and/or our affiliated companies through your Ele.me account on the other products and/or services entry provided by us on the Ele.me homepage.
+This includes the centralized display of your personal information, preferential benefits, and transaction orders through your Ele.me platform account.
+We will respect your choice regarding the Ele.me platform services and the Settings of your Ele.me account. The above information associated with your Ele.me account will be used to provide you with customer service, identify account security risks, and recommend product or service information that you may be interested in.
+2
+Authorized login
+We may provide your Ele.me account information to third parties with your separate consent.
+For example
+The profile picture, nickname, account ID and other page prompt information enable you to conveniently register or log in to third-party accounts. Furthermore, we may obtain your third-party account information from third parties based on your separate consent.
+For example
+Account ID, profile picture, nickname and other information prompted on the page, and bind it with your Ele.me account.
+Enable you to log in directly through a third-party account, use our products and/or services, or achieve mutual sharing of related benefits among accounts.
+We will use your relevant information within the scope of your authorization and consent in accordance with the agreement with the third party.
+(2) Show you information about goods or services
+During your use of our services, in order to provide you with a suitable page to display peripheral products or services, ensure the normal display and compatibility of products or services, and identify abnormal states, we will collect your device information
+(Including
+Device model, device name, operating system version, equipment setup, device identifier IDFA OAID/IDFV GAID/Android/ID
+Harmony OAID
+IP address
+BSSID/SSID
+Device environment, process information of this application running, WIFI list
+(including other software and hardware feature information) and your location information (including those you have authorized
+GPS
+Location and location information obtained through IP addresses, WLAN access points, Bluetooth and base stations, and sensor information
+"
+one
+Browse
+When you browse the Ele.me platform, you can choose to follow/share the stores and brands that interest you. We will collect your operation records to achieve the aforementioned functions and other purposes clearly informed by us.
+You can view and manage your operation record information through "My" - "Store Follow"/" My Follow ".
+2
+Search
+When you use the search function, we will collect your search records, including search content, browsing records/time, and search time/frequency.
+To provide efficient search services, some of the aforementioned information will be temporarily stored on your local device and display your search history to you.
+Please understand that individual search term information cannot identify your personal identity and does not belong to your personal information. Therefore, we have the right to use it reasonably for other purposes.
+You can query and delete search records through "Home" - "Search" - "Historical Search".
+3
+Personalized recommendation
+In order to show and recommend more relevant goods, services and/or content to you and provide personalized services that better meet your needs, we will collect and use your browsing, search records, uppurchase and transaction records when you visit or use our products and/or services. Combined with the legally collected device information, service log information, geographical location information and other information authorized by you, through algorithm models to predict your preference characteristics, match the takeout goods, services and/or other contents that you may be interested in, and based on your clicks, browses and purchases
+Such as
+Sort the takeout goods, services or other information displayed to you based on the situation and in combination with the merchant's sales volume, distance and other factors. At the same time, we will also provide you with information display and search results that are not specific to your personal characteristics.
+You can manage personalized recommendation services through the following channels:
+(1) If you need to view content that is not targeted at your personal characteristics when using the in-site search service we provide or browsing products/stores, you can choose to turn off "Personalized Recommendation Settings" in "My - Settings - Security Center". If you choose to turn it off, we will not be able to recommend stores or products for you based on your interests, hobbies, and daily purchasing habits.
+(2) If you do not want to see the products or services we recommend to you, you can long press the image of the recommended product or store, and in the pop-up window that appears later, follow the prompts to select to block the category of such stores or products
+Category.
+(3) Assist you in completing the transaction
+one
+Shopping cart
+When you browse our services, you can select the goods you are interested in and add them to the shopping cart. We will collect your add-on information to realize the shopping cart function and optimize your shopping experience.
+You can manage or delete your add-on information in the shopping cart.
+2
+Order placement and order management
+When you order specific goods and/or services in our products and/or services, we will generate an order for you to purchase such goods and/or services through the system. During the order placement process, if delivery is involved
+For example
+When delivering takeout food, you need to provide at least yours
+The name of the consignee, the delivery address, and the contact number of the consignee. When the contact number of the consignee does not match the mobile phone number used for placing the order, a backup mobile phone number (default to the mobile phone number used for placing the order) must also be provided. This is to ensure that the service provider can contact the consignee of the order with the backup mobile phone number when they are unable to fulfill the service
+. If you choose to use the errand service, you need to provide it simultaneously during the order placement process
+The sender's name, gender (optional, used for addressing the delivery person, such as Ms. Zhang), address, and contact number, and the recipient's name, gender (optional, used for addressing the delivery person, such as Ms. Zhang), address, and contact number
+. For some special types of goods and services, you also need to provide other information necessary for the goods or services.
+For example
+When you use medical services, you may need to provide your information in accordance with relevant laws and regulations and the requirements of the relevant parties (medical institutions)
+Real-name identity information and medical treatment information
+. If you need to issue an invoice, you need to provide the invoicing information, such as the invoice title, taxpayer identification number, bank information, as well as the invoice receiving information, such as the email address. At the same time, we will save the information you reserved to facilitate your selection when applying for an invoice. If you need to add, modify or delete the invoicing information, you can maintain it in "My - Invoice Assistant - Title Management".
+At the same time, this order will specify the information of the goods and/or services you have purchased, the specific order number, the time of placing the order, the amount you should pay, and the payment method. We collect this information to help you complete the transaction smoothly, ensure your transaction security, query order information, provide customer service and after-sales service, and for other purposes that we have clearly informed.
+You can order goods or services for others through Ele.me. You need to provide the aforementioned personal information of the actual orderer. Before providing the aforementioned personal information of the actual orderer to Ele.me, you need to ensure that you have obtained its authorization and consent. For orders involving minors, you need to obtain the authorization and consent of the guardians of the minors involved before placing the order.
+To facilitate your understanding and query of order information and the management of order information, we will collect the order information generated during your use of our services to display it to you and facilitate your management of orders. In addition, our services will also be provided to you through Taobao, Alipay, Koubei and other affiliated platforms, or through other related merchant platforms and mini-programs. To facilitate your viewing and management of the orders generated by your use of our services on these platforms and mini-programs, We will display the order information you generate through these platforms and mini-programs to you on these platforms based on your authorization to us in these platforms and mini-programs. At the same time, in order to facilitate your viewing and management of the orders you generate through your Ele.me account using our affiliated companies and third-party services, you agree that we collect the information of these orders and display it to you on the Ele.me platform.
+You can fill in/select "include" additionally
+Other contact numbers
+,
+More additional information including the delivery time is provided to ensure the accurate delivery of goods or services.
+You can view and manage it through "My" - "My Orders"Your order information.
+3
+Help you complete payment and delivery
+When you purchase goods or services, in order to assist you in completing or completing the order payment on behalf of others and to smoothly receive the purchased goods or services, we or the third party providing the service will collect your order information and delivery information. For specific details, please refer to "III. Partners Involved in the Data Usage Process and Transfer and Disclosure of Personal Information - (1) Partners Involved in the Data Usage Process - 5. Cooperation Scenarios - (1) Realization of Business Functions - A" in this policy. "Payment services /B. Logistics Services"
+(4
+Customer service and dispute resolution
+When you contact us or apply for in-sale and after-sale services or dispute resolution, in order to ensure the security of your account and system
+We need you to provide the necessary personal information to verify your user identity.
+When you need us to provide customer service related to your order, we may inquire about your relevant order information in order to offer you appropriate assistance and handling. When you need customer service assistance to modify relevant information (such as delivery address, contact details), you may also need to provide other information besides the above to complete the modification.
+In order to facilitate our contact with you, help you solve problems as soon as possible or record the solutions and results of related issues, we may contact you through the mobile phone number bound to your account or the mobile phone number you voluntarily provide, and keep your communication/call records with us and related content (including account information, order information, and other information you provide to prove relevant facts) Or the contact information you leave, if you consult, complain or offer suggestions regarding a specific order, we will use your account information and order information.
+For the reasonable needs of providing services and improving service quality, we may also use other information of yours, including the relevant information you provide when contacting customer service and the questionnaire response information you send to us when participating in questionnaires.
+We will use deep learning technology to provide you with intelligent question-and-answer dialogues and intelligent voice customer service. We will de-identify your communication, correspondence/call records and related content with us. In cases where your identity cannot be recognized, they will be used for training the intelligent customer service algorithm model. During the period when you receive intelligent customer service, we will give you prominent prompts. We will continuously improve the quality of our intelligent customer service based on your usage records of the intelligent customer service.
+(V) Provide you with interactive communication functions
+one
+Message notification
+During our operation, we may send you one or more types of notifications simultaneously through the contact information you provide during the use of the product and/or service (such as contact phone number and contact email).
+For example
+Service notifications, identity verification, security verification, and user experience research. We may also display or pop-up push commercial information about services, functions or activities that may interest you via text messages or phone calls, or make follow-up calls.
+If you wish to turn off the pop-up push notifications, you can also do so through the relevant buttons on the pop-up page. If you do not wish to receive our commercial information or call back, you can unsubscribe from the marketing text messages through the methods provided in the information, the text message notification button in the App (path: "My - Settings - Message Notification Settings - Text Message Notification"), or contact customer service, or clearly indicate your refusal during the call back.
+To ensure that you can receive push messages normally and avoid message omissions, we have used the App's self-start function. We will push platform notifications to you through the "messages" on the client side (such as order transaction notifications, benefit notifications, service notifications, and activity discounts)
+Such as
+)
+And chat message notifications
+You can choose to enable or disable the notification permission of Ele.me in the "Settings" of your device, or set the message notification through "My - Settings - Message Notification Settings".
+(6) Provide you with evaluation services
+You can publicly release information by evaluating the products and/or services of merchants through Ele.me and other means.
+Including but not limited to
+When you post text, image or video content and make comments, we will collect the information you post and display your username, profile picture and the content you post. If you choose to post your evaluation information anonymously, we will not display your username or profile picture.
+Please note that the information you post may involve your own or others' personal information, or even sensitive personal information. If you choose to upload pictures containing personal information when making evaluations, please consider more carefully whether to post and share such information when using our services. If the information you publicly release involves others' personal information, you need to obtain their consent before releasing it. If the information you publicly release involves personal information of minors, you need to obtain the authorization and consent of the guardians of the minors involved before release. In the aforementioned circumstances, guardians have the right to contact us through the contact information provided at the end of this policy to request the correction or deletion of the content involving the personal information of minors.
+(7) Provide you with security guarantees
+To fulfill the legal obligation of ensuring the security of e-commerce transactions, enhance the security of your use of services provided by us and our affiliated companies and partners, protect the personal safety, property safety, account security and transaction security of you or other users or the public, and better prevent the risks of phishing websites, fraud, network vulnerabilities, computer viruses, network attacks and network intrusions, To more accurately identify situations that violate laws, regulations or relevant agreements and rules of Ele.me, we will collect your information
+Equipment related information (including device model, device name, operating system version, equipment Settings, device identifier IDFA OAID/IDFV GAID/Android ID/Ha
+rmo
+ny OAID, MCC/MNC, IP address, device environment and other software and hardware characteristic information
+. When triggering abnormal behavior
+For example
+We will collect information such as remote logins and abnormal operation behaviors
+Information related to the location of your device (including your authorized GPS location, WLAN access point and Bluetooth, base station and other sensor information such as acceleration, gyroscope, gravity), BSSID/SSID, WIFI list, and risk application information
+.
+We may use your device information that has been collected in accordance with the law, as well as your identity information, transaction information, service log information, and the information that our affiliated companies and partners have obtained your authorization or can provide to us in accordance with laws and regulations. To comprehensively assess the risks of your account and transactions, conduct identity verification (including triggering registration or account login verification), identify illegal and non-compliant situations, detect and prevent security incidents, and take necessary measures such as recording, auditing, analyzing and handling in accordance with the law.
+(8) Experience optimization services provided for you
+one
+Experience optimization services based on system permissions
+To provide you with more convenient, high-quality and personalized products and/or services and strive to enhance your experience, we may collect and use your personal information by enabling system permissions in the following services we offer you.
+If you do not agree to enable the relevant permissions, it will not affect your use of the basic functions of Ele.me
+But you may not be able to obtain the user experience that these optimized services bring to you.
+You can check the status of the above permissions item by item in your device Settings or in our relevant client's "Settings - Security Center - System Permissions", and you can decide whether to enable or disable these permissions at any time by yourself.
+You may
+Click here
+View the application permission application and usage instructions.
+2
+Cookie
+And services of similar technologies
+Cookie
+The information identification technology of similar devices is a commonly used technology in the Internet. When you use our services, we may use relevant technologies to send one or more cookies to your device for any purposes other than those described in this Privacy Policy. We use cookies mainly to ensure the safe and efficient operation of our products and services. They enable us to confirm the security status of your account and transactions, detect abnormal situations such as crashes and delays, and help you avoid the repetitive steps and processes of filling out forms and entering search content.
+At the same time, we may use cookies to show you information or features that may interest you and optimize your selection of advertisements. Most browsers provide users with the function of clearly understanding the cached data of the browser. You can perform corresponding data clearing operations, or modify your acceptance of cookies or reject our cookies. You may not be able to use the services or corresponding functions that rely on cookies due to these modifications.
+(IX) Other rules for the collection and use of personal information
+one
+In order to provide you with the specific services you need, when you start our product or visit a specific page, we will read the content of your clipboard to determine if there is any relevant password code (such as a hungry password) information. Only when the clipboard has the aforementioned password code information will we collect it for cloud verification and then provide you with the content you need or bind the relevant benefits. Please rest assured that we will not store any other information about your clipboard, and individual clipboard information alone cannot identify your specific identity.
+2
+,
+If the information you provide contains personal information of other users, you must ensure that you have obtained legal authorization before providing such personal information to Ele.me.
+3
+,
+If we use your information for purposes not specified in this policy, or use information collected for specific purposes for other purposes, or if we proactively obtain your personal information from a third party, we will seek your consent in advance.
+4
+Under the premise of strict de-identification through security encryption technology and the inability to re-identify specific individuals, we will use the collected data for machine learning, algorithm model training or other data analysis and mining processing to better ensure our product experience and assist in business decision-making analysis.
+You may
+Click here
+Check out our algorithm principle and data processing situation description.
+Iii. Partners involved in the use of data and the transfer or disclosure of personal information
+(1) The partners involved in the data usage process
+one
+Basic principles
+When we cooperate with our partners, we will abide by the following principles:
+(1) The principles of legality, propriety and minimum necessity
+Data processing should have a legal basis, a legitimate purpose, and be limited to achieving the minimum scope of the processing purpose.
+(2) The principle of maximizing users' right to know and decision-making power:
+During the data processing, the right to be informed and the right to decide regarding the processing of users' personal information are fully respected.
+(3) The principle of the most strengthened security guarantee capacity:
+We will take necessary measures to ensure the security of the personal information we process, carefully assess the purposes for which our partners use the data, conduct a comprehensive assessment of their security protection capabilities, and require them to comply with the relevant requirements of the cooperation agreement.
+2
+The scope of the cooperating party
+If the specific functions and scenarios involve services provided by our affiliates or third parties, the scope of partners includes our affiliates and third parties.
+You may
+Click here
+Check the description of our data partners.
+3
+,
+Entrusted processing
+We may entrust authorized partners to process your personal information in order to authorize them to provide certain services or perform functions on our behalf for you. We will only entrust them to process your information for the legitimate, proper, necessary, specific and clear purposes stated in this policy. We authorize partners to only access the information necessary for them to perform their duties, and we will require them through agreements not to use this information for any other purposes beyond the scope of the entrustment. If an authorized partner uses your information for purposes not entrusted by us, they will obtain your separate consent.
+4
+"Jointly handle"
+For scenarios where personal information is processed jointly, we will sign relevant agreements with our partners in accordance with the law and define their respective rights and obligations to ensure that we comply with the relevant legal provisions and protect data security during the use of such personal information.
+5. Cooperation scenarios
+(1) To achieve business functions
+A.
+Payment service
+To complete the order payment, you need to select the payment method (such as Alipay, wechat Pay partner) and provide the account of the third-party payment platform. We will embed your Ele.me account member name, order payment-related information, order security-related device information and other necessary information required by anti-money laundering laws through the third-party payment platform software tool development kit (referred to as "SDK" in this policy) embedded in the website or client.
+And share with third-party payment platform companies in other secure ways. If you choose to have other financial institutions provide payment services for you, we will also include your payment services
+Bank card number and validity period
+The necessary information for bank card payment, including this, will be shared with the corresponding financial institution of your choice.
+You mayIf you request someone else to make payment for you, then you need to provide the third-party payment platform account and/or mobile phone number of the person making the payment on your behalf.
+In order to enable us to be promptly informed and confirm your payment progress and status, and to provide you with after-sales and dispute resolution services, you agree that we may collect information related to payment accounts and payment progress from the payment institutions corresponding to the transaction counterparty and payment method you have chosen.
+B.
+Logistics service
+To ensure that the goods and/or services you purchase can be delivered and provided smoothly, safely and accurately, we will disclose to the relevant delivery service providers (including merchants or third-party delivery service providers)
+Order-related delivery information (such as: consignee's name, delivery address, consignee's contact number)
+And it shall synchronize the relevant distribution information to the corresponding logistics distribution entity according to the selection of the commodity and/or service provider. You understand and agree that the corresponding logistics distribution entity will inevitably obtain and use your distribution information for the purpose of completing the delivery.
+For the purpose of providing you with after-sales and dispute resolution services, we need to be informed of and confirm the delivery progress and status in a timely manner. You agree that we may collect information related to the delivery progress from the providers of the goods and/or services and the delivery service providers of your choice.
+(2) Advertising and analytics services
+Under the premise of adopting industry-standard security technologies, we will entrust our partners to handle information related to advertising placement, reach and effectiveness. We will not entrust your personal identity information to partners for processing.
+We have not carried out cross-platform advertising recommendation activities based on personal information and will not entrust your information to partners for processing.
+(3) Safety and Statistical Analysis
+A.
+Ensure safe use
+We attach great importance to the security of our products and/or services. To protect the legitimate rights and interests of Ele.me users from illegal infringement, our partners may use necessary device, account and log information.
+B.
+Analyze the product situation:
+To analyze the stability of Ele.me products and/or services, the partners providing the analysis services may need to understand the usage of the services, device identification information, and the overall installation and usage of the applications
+Such as
+Information.
+(4) Other cooperation scenarios
+In addition to the above-mentioned cooperation scenarios, we may also entrust information to other partners that support our business for processing, including providing technical infrastructure services on our behalf, analyzing the usage of our services, offering merchant membership services or other customer services.
+If you have signed an authorization agreement or relevant documents with a credit reporting agency (such as Baihang Credit Reporting, Pudao Credit Reporting and other institutions), financial institutions or other institutions, based on your separate consent, we will conduct a comprehensive analysis and processing of your personal information within the scope of authorization and provide the processing results to the aforementioned institutions.
+To ensure the stable operation and functional realization of our client, and to enable you to use and enjoy more services and functions, our application will embed the SDK of authorized partners or other similar applications. We will conduct strict security checks on the application programming interfaces (apis) and SDKS used by authorized partners to obtain relevant information, and agree on strict data protection measures with authorized partners, requiring them to handle personal information in accordance with this policy and any other relevant confidentiality and security measures. Except where the authorized partner obtains your consent alone.
+You may
+Click here
+View
+Details of the SDK we have integrated.
+(II) Transfer
+We will not transfer your personal information to any company, organization or individual, except in the following circumstances:
+one
+Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties.
+2
+If we need to transfer personal information due to reasons such as merger, division, dissolution or declaration of bankruptcy, we will inform you of the name or surname and contact details of the recipient. The recipient will continue to fulfill this policy and other legal obligations. If the recipient changes the original processing purpose or method, they will obtain your consent again.
+(III) Public Disclosure
+We will only disclose your personal information publicly under the following circumstances:
+one
+With your explicit and separate consent or based on your active choice, we may publicly disclose your personal information.
+2
+,
+If we determine that you have violated laws and regulations, we may disclose your personal information in accordance with laws and regulations or with your consent.
+Including the relevant violations and the measures that Ele.me has taken against you.
+(4) Cease operations
+If we cease to operate the product and/or service, we will promptly stop collecting your personal information. We will deliver notifications one by one or send you announcements to inform you of the cessation of operations, and delete or anonymize the personal information we hold related to the products and/or services that have been shut down.
+(
+5) Circumstances where obtaining your authorization and consent is lawfully exempted
+Please understand that in the following circumstances, in accordance with laws, regulations and national standards, partners may use your personal information, or we may transfer or disclose it without obtaining your authorization and consent:
+1. Necessary for the conclusion or performance of a contract as per your requirements: When you purchase goods or services through the Ele.me platform, we will share the necessary information related to the transaction in your order with the relevant providers of the goods or services based on your choice, in order to fulfill your transaction, delivery and after-sales service needs.
+2. For the fulfillment of legal duties or obligations: We may share your personal information as required by laws and regulations, for the needs of litigation or dispute resolution, or in response to requests from administrative or judicial authorities in accordance with the law, as well as for the fulfillment of other legal obligations.
+3. In response to public health emergencies or when it is necessary to protect the life, health and property safety of natural persons in emergency situations.
+4. Conducting news reporting and public opinion supervision for the public interest
+Such as
+The behavior involves processing personal information within a reasonable scope.
+5. Process your personal information that you have voluntarily disclosed or other personal information that has been lawfully disclosed within a reasonable scope (such as legal news reports, government information disclosure)
+Such as
+Personal information that is lawfully disclosed through channels.
+6. Other circumstances as prescribed by laws and regulations.
+Please be informed that, in accordance with applicable laws,
+If we take technical measures and other necessary measures to process personal information so that the data recipient cannot re-identify a specific individual and cannot restore it, then the sharing, transfer or public disclosure of such processed data does not require additional notice to you or your consent
+.
+Iv. Your Rights
+(
+1
+Query, correct, supplement or delete your information
+Except for the exceptional circumstances stipulated by laws and regulations, you have the right to query, correct, supplement and delete your information. You can do so by yourself in the following ways:
+one
+,
+Account information
+You can log in to the Ele.me App, go to "My - Personal Information" to query, correct and supplement your personal information and related information of your personal account, including your account basic information and account binding information.
+2
+,
+Address information
+You can log in to the Ele.me App and enter "My - Personal Information - Delivery Address" to add, change or delete your delivery address information at any time (including
+The consignee's name, gender, delivery address and telephone number
+"
+3
+,
+Order information
+You can log in to the Ele.me App, enter "Orders", view and delete your order information, including
+Completed orders, pending consumption orders, pending evaluation orders and refund orders
+.
+4
+,
+Search and browse information
+You can access or delete your search history and manage other data in the Ele.me App.
+If you are unable to manage your personal information through the above link, you can contact us at any time through Ele.me customer service.
+In addition, in the following circumstances, you can also contact Ele.me customer service to request the deletion of your personal information:
+1. If our handling of personal information violates laws and regulations;
+2. If we collect or use your personal information without obtaining your explicit consent;
+3. If our handling of your personal information seriously violates the agreement with you;
+4. If our processing purpose has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+5. If we cease to provide the product or service, or if the retention period has expired.
+If we decide to respond to your request for deletion, we will also notify, as far as possible, the entities that have obtained your personal information from us and require them to delete it in a timely manner (unless otherwise stipulated by laws and regulations, or these entities have independently obtained your authorization).
+When you or we assist you in deleting relevant information, due to applicable laws and security technologies, we may not be able to immediately remove the corresponding information from the backup system. We will securely store your personal information and isolate it from any further processing until the backup can be cleared or anonymized.
+(
+Ii) Copying
+You can copy your information in the following ways:
+one
+Log in to the Ele.me client and enter "My - Settings - Personal Information Collection List - Personal Information Download";
+2
+You can copy your personal information after searching through the paths listed in "(1) Query, Correct, Supplement or Delete Your Information" and the "Personal Information Collection List".
+(
+3) Alter the scope of your authorization and consent
+You can change or withdraw the scope of your authorization for us to collect and process your personal information in the following ways:
+You can manage the system permission authorization used by the App in "My - Settings - Security Center - System Permissions" on the Ele.me App. (
+For example
+You can withdraw your user consent authorization for "Allowing Ele.me to access the camera" in "My - Settings - Security Center - System Permissions".
+For authorizations that you cannot set directly through the above methods, you can contact the Ele.me App to make modifications.
+But please note that for some types of personal information,
+For example
+For the information necessary to realize the basic functions of Ele.me or for us to fulfill the obligations stipulated by laws and regulations, we may not be able to respond to your request to change the scope of authorization (for details, see "(6) Responding to Your Above Request").
+.
+When you withdraw your consent or authorization, we will no longer be able to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your relevant personal information. However, your decision to withdraw consent or authorization will not affect the processing of your personal information that was carried out based on your consent or authorization previously.
+(
+4) Cancel your account
+You can apply to cancel your account through the following methods:
+one
+You can submit an account cancellation application by yourself in "My - Settings - Account & Security - Cancel Account" on the Ele.me App.
+2
+Contact Ele.me customer service for assistance to help you apply for the cancellation of your account.
+After you voluntarily cancel your account, we will stop providing you with products or services and delete your personal information in accordance with the requirements of applicable laws. If it is technically difficult to delete personal information, we will anonymize it or stop processing it except for storage and taking necessary security protection measures, except as otherwise provided by laws and regulations.
+(
+Five
+Constrain the automatic decision-making of the information system
+In some business functions, we may make decisions solely based on non-human automatic decision-making mechanisms such as algorithms. If these decisions affect your legitimate rights and interests, you can contact us through customer service.
+(
+Vi. Respond to your above-mentioned request
+For the above requests made by you or your potential guardians, close relatives or other authorized entities to us, as well as your relevant personal information rights as stipulated by the laws of the People's Republic of China and other applicable laws, you can contact us through customer service or directly contact our personal information protection officer
+File a complaint. We will give a reply within 15 days.
+To ensure the security of your account and your personal information, when you make the above request to us, we may first verify your identity (such as adding account verification, requiring you to provide a written request or other reasonable methods), and then process your request.
+For your reasonable requests, we generally do not charge any fees. However, for repeated requests that exceed a reasonable limit, we may charge a certain fee at our discretion. We may refuse information that is not directly related to your identity, information that is repeatedly applied for without reasonable grounds, or requests that require excessive technical means (such as the need to develop new systems or fundamentally change current practices), pose risks to the legitimate rights and interests of others, or are impractical.
+In the following circumstances, we will be unable to respond to your request in accordance with the requirements of laws and regulations:
+one
+It is necessary for us to fulfill the obligations stipulated by laws and regulations;
+2
+Related to national security and defense security;
+3
+Necessary for public security, public health and major public interests;
+4
+And criminal investigation and prosecutionAs necessary for trials and the enforcement of judgments and other judicial or administrative law enforcement;
+5
+Where there is sufficient evidence to show that the personal information subject has malicious intent or is abusing their rights;
+6
+Where it is necessary to protect the life, property and other major legitimate rights and interests of the personal information subject or another individual, but it is difficult to obtain the authorization and consent of the individual concerned;
+7
+Responding to your request would cause serious damage to your or other individuals' or organizations' legitimate rights and interests;
+8
+Involving trade secrets.
+V. Information Storage
+(1) Storage period
+We will take reasonable and feasible measures to do our best to avoid collecting irrelevant personal information.
+We will only retain your personal information for as long as necessary to achieve the purposes described in this policy
+Unless the law has mandatory retention requirements,
+For example
+The E-commerce Law of the People's Republic of China stipulates that information on goods and services and transaction information shall be kept for no less than three years from the date of transaction completion.
+We determine the storage period of personal information mainly based on the following criteria:
+one
+To fulfill the transaction purposes related to you, maintain the corresponding transaction and business records, and respond to your possible inquiries or complaints;
+2
+Ensure the safety and quality of the services we provide to you;
+3
+Do you agree to a longer retention period?
+4. Ensure that we present evidence to the court in possible litigation cases;
+5
+Are there any other special agreements or legal and regulatory provisions regarding the retention period?
+After the retention period of your personal information has expired, we will delete your personal information in accordance with the requirements of applicable laws or anonymize it.
+(II) Storage Location
+Personal information generated or collected by us within the territory of the People's Republic of China is stored on servers within China. Unless we obtain your separate consent, or to fulfill the contract we have entered into with you, or to comply with the obligations stipulated by laws and regulations, we will not provide any of your personal information to overseas parties.
+(3) Storage security
+one
+Data protection technical measures
+We have adopted security measures that comply with industry standards and are reasonable and feasible to protect your information, preventing unauthorized access, public disclosure, use, modification, damage or loss of personal information.
+For example
+It is encrypted and protected by the SSL protocol when exchanging data between your browser and the server. We also provide the HTTPS protocol secure browsing method for the Ele.me website at the same time. We will use encryption technology to enhance the security of personal information. We will use trusted protection mechanisms to prevent personal information from being maliciously attacked. We will deploy access control mechanisms and do our best to ensure that only authorized personnel can access personal information. At present, our important information systems have passed the network security
+Such as
+Level 3 protection certification.
+2
+Organizational measures for data protection management
+We have an industry-leading data-centric data security management system that focuses on the data lifecycle, enhancing the security of personal information from the dimensions of organizational construction, system design, personnel management, and product technology. We have established a dedicated department for personal information protection.
+A person in charge of personal information protection was appointed and a specific person was designated to be responsible for the protection of children's personal information. We continuously enhance employees' awareness of the importance of protecting personal information through training courses and examinations.
+3
+Prevention of account security risks
+The Internet is not an absolutely secure environment. When using Ele.me services, we strongly recommend that you do not use communication methods not recommended by Ele.me to send your information, to avoid information theft or even falling victim to telecommunications and online fraud. You can establish connections and share with each other through our services. When you create communication, transactions or sharing through our services, you can independently choose the communication, transaction or sharing partner as a third party who can view your transaction content, contact information, communication information or information related to the shared content.
+When conducting online transactions through Ele.me services, you inevitably have to disclose your personal information, such as contact details or address, to the transaction counterparty or potential transaction counterparties. Please properly protect your personal information and only provide it to others when necessary. If you find that your personal information, especially your account or password, has been leaked, please contact Ele.me customer service immediately so that we can take corresponding measures based on your application.
+Please use a complex password to help us ensure the security of your account. We will do our best to ensure the security of any information you send to us.
+4
+Response to personal information security incidents
+If our physical, technical or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering or destruction of information, and causing damage to your legitimate rights and interests, we will promptly activate the emergency response plan and take reasonable and necessary measures to minimize the impact on you personally as much as possible. In the event of an unfortunate personal information security incident, we will inform you in accordance with the requirements of laws and regulations: the basic situation and possible impact of the security incident, the measures we have taken or will take to handle it, suggestions for you to independently prevent and reduce risks, and the remedial measures for you. We will inform you of the relevant circumstances of the event by email, letter, phone call or push notification. When it is difficult to inform each personal information subject individually, we will issue a public announcement through reasonable and effective means. At the same time, we will also report the handling situation of personal information security incidents as required by the regulatory authorities.
+At the same time, we will also report the handling situation of personal information security incidents as required by the regulatory authorities.
+Vi. Policy Updates
+To provide you with a better product and service experience, we are constantly striving to improve our products, services and technologies. When there are new service and business process changes, we may update our privacy policy and do so through in-site messages,
+Public notice page
+Issue change notices or other appropriate means to remind you of the updated content. However, without your explicit consent, we will not restrict the rights you enjoy under this policy. We will be on a dedicated page (such as Ele.me)
+App
+"
+The latest version of the privacy policy is displayed on my - Settings - Security Center - Privacy Policy.
+For major changes, we will also provide more prominent notifications (including notifications through Ele.me public announcements or even pop-up prompts to you) to inform you again and obtain your consent in accordance with the relevant requirements of laws and regulations.
+The major changes referred to in this policy
+Including but not limited to
+:
+one
+Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the way personal information is used;
+2
+Changes in the privacy policy subject caused by business adjustments, transactions and mergers and acquisitions, and changes in the original processing purpose and processing method by the new subject recipient;
+3
+The main objects of personal information sharing, transfer or public disclosure change;
+4
+There are significant changes in users' rights to personal information and the ways to exercise them;
+5
+The contact information of the person in charge of personal information protection and the complaint channels have changed.
+6
+When the personal information protection impact assessment report indicates that there is a significant impact on an individual's rights and interests.
+We will also keep the old version of this policy
+Are you hungry?
+Specialized page
+Archived for your reference.
+Vii. Protection of Minors
+In e-commerce activities, we presume that you have the corresponding capacity for civil conduct. If you are a minor, we suggest that you ask your parents or guardians to read this Privacy Policy carefully and use our services or provide us with information only with their consent.
+If you are a child under the age of 14, before you use our services, you and your guardian should carefully read the regulations specially formulated by our affiliated company
+"Ele.me's Rules for Protecting Children's Personal Information and Notice to Guardians"
+Please ensure that you obtain the consent of your guardian for the "Ele.me Children's Personal Information Protection Rules and Guardian's Notice" before using our services under the guidance of your guardian to ensure your safety when using our services and conducting transactions.
+Once
+If we identify that you are a child, we will notify your guardian and require their consent to the "Ele.me Children's Personal Information Protection Rules and Guardian's Notice".
+Where we collect personal information of minors with the consent of their parents or guardians for the use of our products or services, we will only use, share, transfer or disclose such information when permitted by laws and regulations, with the explicit consent of the parents or guardians, or when it is necessary to protect the minors.
+If you are the parent or other guardian of a minor, please pay attention to whether the minor under your guardianship uses our services after obtaining your authorized consent.
+If you have any questions about the personal information of the adult under your guardianship, please contact us through the contact information provided at the end of the text.
+Viii. Contact Us
+If you have any questions, opinions or suggestions regarding the content of this policy, or if you find that your personal information may have been leaked, you can contact us through the following methods. We will respond to your request within 15 days:
+one
+You can visit the official website of Ele.me.
+http://www.ele.me
+)
+Contact us through the "Online Customer Service" below/Ele.me APP online customer Service (open "My - My Customer Service").
+2
+Contact us through Ele.me customer service hotline: 10105757.
+3
+We have also appointed a personal information protection officer, whom you can contact via email
+bdshPIP@ service.alibaba.com
+Send an email to contact them. Office address: 16th Floor, North Tower, Jintiecheng Plaza, No. 1518, Jinshajiang Road, Putuo District, Shanghai. To facilitate users' appeals, complaints and reports on issues related to algorithm recommendation
+Such as
+You can also do it via email
+bdshSFFKRK@service.alibaba.com
+Contact us.
+Please note that we may not respond to questions that are not related to this policy or your rights to personal information.
+If you are not satisfied with our response, especially if you believe that our processing of your personal information has infringed upon your legitimate rights and interests,
+You can also seek a solution by filing a lawsuit with the competent court in the defendant's place of residence.
+Appendix: Relevant Definitions
+one
+,
+Are you hungry?
+:
+It refers to the ele.me (domain name ele.me) website, mobile client, H5 page and mini-program.
+2
+,
+Ele.me service provider
+It refers to Shanghai Lazas Information Technology Co., Ltd. and Lazas Network Technology (Shanghai) Co., LTD., the Internet information and software technology service providers of Ele.me, with their registered addresses at Room 520 and Room 507, No. 788, Zhenbei Road, Putuo District, Shanghai.
+3
+,
+Affiliated company
+Refers to the affiliated companies of Alibaba Group Holding Limited disclosed in the latest annual report of the listed company Alibaba Group Holding Limited.
+4
+,
+Personal information
+It refers to all kinds of information recorded in electronic or other forms that can identify the identity of a specific natural person alone or in combination with other information, or reflect the activities of a specific natural person.
+5
+,
+Sensitive personal information
+Sensitive personal information is
+Once
+The leakage or illegal use of personal information that is likely to cause infringement of a natural person's personal dignity or endanger their personal or property safety includes biometric information, religious beliefs, specific identities, medical and health information, financial accounts, travel trajectory information, as well as personal information of minors under the age of 14.
+6
+,
+Service log information
+Including browsing, clicking to view, search query, follow, add to cart, transaction, evaluation information, as well as IP address, type of browser, version of operating system, telecommunications operator, language used, access date and time.
+7
+De-identification
+It refers to the process in which personal information is processed to make it impossible to identify a specific natural person without additional information.
+8
+Anonymization
+It refers to the process in which personal information has been processed to be unable to identify a specific natural person and cannot be restored.

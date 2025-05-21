@@ -1,0 +1,911 @@
+Third parties share data lists
+List of data shared by third parties:
+Third party company name
+Product/type
+Shared information name
+Purpose of use
+Usage scenario
+Sharing mode
+Third party Personal information processing Rules
+Description of third-party data security capabilities
+Youmeng Tongxin (Beijing) Technology Co., LTD
+Friends Alliance + mobile statistics SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), user operation records in the App, and running process information
+Provide the collection and visual analysis of user behavior data and App operation data to help better analysis and decision to achieve business growth
+Data analysis
+Embed third-party SDKS that collect and transmit personal information
+https://www.umeng.com/policy
+Obtained ISO/IEC 27001:2013 Information Security Management system certification, ISO/IEC
+27018:2019 Public cloud Personal information protection management system certification. And has the information system security certificate issued by the Ministry of Public Security. It is committed that its information security management system meets the high standards of personal information protection laws and regulations at home and abroad.
+Beijing Digital Alliance Network Technology Co. LTD
+Digital Alliance SDK
+Device MAC address, unique device ID (IDFA, IMEI, IMEISV, OAID, Android_ID, IMSI), location information, application list, SSID, BSSID, device IP
+Mobile security technology provider that provides terminal validity recognition. Its "trusted ID" can solve the data opacity in the APP promotion process, as well as malicious behaviors such as brushing order and brush amount, and help APP developers to identify the quality of promotion channels and filter invalid data.
+Data analysis
+Embed third-party SDKS that collect and transmit personal information
+https://www.shuzilm.cn/main/privacy.html
+It has obtained ISO27001 information security management system certification, passed the EU GDPR audit, and has the third level of information security assurance certification
+Xinjiang Guishi Information Technology Co., LTD
+QuestMobileSDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), phone number, location information, SSID, BSSID
+On the one hand, its desensitized data analysis and research services can help customers understand the market development trend and industry competition pattern, and optimize their own operational efficiency by understanding user characteristics and panoramic portraits
+Data analysis
+Embed third-party SDKS that collect and transmit personal information
+https://www.questmobile.com.cn/privacy
+Obtained ISO27001 Information security management system certification
+Zhejiang Daily Interactive Network Technology Co., LTD
+Number SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), location information, running process information, SSID, and BSSID
+Provide the collection and visual analysis of user behavior data and App operation data to help the company better analyze and make decisions to achieve business growth
+Data analysis
+Embed third-party SDKS that collect and transmit personal information
+http://docs.getui.com/privacy/
+It has obtained the third level of information system protection and ISO9001 quality management system certification
+Autonavi Software Limited
+Amap SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), device serial number, location information, SSID, BSSID
+Provide user location services to obtain weather services for the user's location
+Get the grid weather forecast for the location
+Embed third-party SDKS that collect and transmit personal information
+https://lbs.amap.com/pages/privacy/
+It has passed the network security grade protection assessment, ISO27001 information security management system certification and ISO 27018 cloud protection certification
+Hubei Toutiao Technology Co., LTD
+Pangolin iOS/Android SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), location information, running process information, hardware serial number, application list, IP address
+Provide commercial effect advertising resources
+Display advertising
+Embed third-party SDKS that collect and transmit personal information
+https://www.pangle.cn/privacy
+Perform de-identification processing
+Tencent Technology (Shenzhen) Co., LTD
+Tencent social alliance advertising
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), location information, running process information, phone number, application list
+Provide commercial effect advertising resources.
+Display advertising
+Embed third-party SDKS that collect and transmit personal information
+https://www.tencent.com/zh-cn/privacy-policy.html
+Pass the information security level protection (Level 3)
+Beijing Baidu network information technology Co., LTD
+Baidu sdk
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), location information, running process information, phone number, application list
+Provide commercial effect advertising resources
+Display advertising
+Embed third-party SDKS that collect and transmit personal information
+https://union.baidu.com/bqt/#/legal/policies
+Perform de-identification processing
+Alipay (China) Network Technology Co., LTD
+"App Payment" SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), location information, running process information, and phone number
+Provide third-party payment services
+Member order payment
+Embed third-party SDKS that collect and transmit personal information
+https://render.alipay.com/p/c/183i5h7fnt4w
+Through the China Network Security Review Technology and Certification Center (CCRC) personal information security management system certification
+Tencent Technology (Shenzhen) Co., LTD
+Tencent SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI, MEID), location information, running process information, application list
+Provide third-party login sharing services
+Third-party account login and sharing
+Embed third-party SDKS that collect and transmit personal information
+https://privacy.qq.com/
+Passed the national network security level protection (Level 3) assessment and filing
+Beijing Micro dream network technology Co., LTD
+Microblogging service SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), hardware serial number
+Provide third-party login sharing services
+Third-party account login and sharing
+Embed third-party SDKS that collect and transmit personal information
+https://weibo.com/signup/v5/protocol/
+Passed the three-level protection assessment of information security
+Tencent Technology (Shenzhen) Co., LTD
+Wechat public platform SDK
+Application list
+Provide third-party login sharing services and third-party payment services
+Third-party account login and sharing
+Embed third-party SDK
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=1503979103&version=1&lang=zh_CN&platform=2
+National network security level protection (Level 3) assessment and filing
+Tencent Technology (Shenzhen) Co., LTD
+Tencent BuglySDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), and running process information
+Provide App stability monitoring, crash problem tracking services
+Problem tracking
+Embed third-party SDKS that collect and transmit personal information
+https://static.bugly.qq.com/bugly-sdk-privacy-statement.pdf
+Perform de-identification processing
+Zhejiang Daily Interactive Network Technology Co., LTD
+Push SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), running process information, application list, SSID, and BSSID
+Provide the whole network message push service
+Message push
+Embed third-party SDKS that collect and transmit personal information
+https://www.getui.com/privacy
+It has obtained the third level of information system protection and ISO9001 quality management system certification
+Beijing Millet Technology Co., LTD
+Xiaomi content open platform SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), location information, and running process information
+Provide Xiaomi device message push service
+Message push
+Embed third-party SDKS that collect and transmit personal information
+https://dev.mi.com/console/doc/detail?pId=1698
+Perform de-identification processing
+Zhuhai Meizu Technology Co., LTD
+Meizu open platform SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), running process information, and mobile phone number
+Provide Meizu device message push service
+Message push
+Embed third-party SDKS that collect and transmit personal information
+https://www.meizu.com/legal.html
+Perform de-identification processing
+OPPO Guangdong Mobile Communication Co., LTD
+OPPO message push SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI)
+Provide OPPO device message push service
+Message push
+Embed third-party SDKS that collect and transmit personal information
+https://privacy.oppo.com/cn/policy/
+Perform de-identification processing
+VIVO (Weiwo) mobile communication Co., LTD
+VIVO open platform SDK
+Device MAC address, unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), and running process information
+Provide VIVO device message push service
+Message push
+Embed third-party SDKS that collect and transmit personal information
+https://dev.vivo.com.cn/documentCenter/doc/366#w1-08512613
+Perform de-identification processing
+Huawei Terminal Co. LTD
+Huawei Terminal SDK
+Unique device ID (IDFA, IMEI, OAID, Android_ID, IMSI), application list
+Provides Huawei device message push service
+Message push
+Embed third-party SDKS that collect and transmit personal information
+https://consumer.huawei.com/cn/privacy/privacy-policy/
+It holds CSA STAR Gold certification for cloud security, ISO27001 information security management system certification, and network security level protection
+Shanghai Jingmeng Information Technology Co., LTD
+Blue flash SDK
+Device information, location information, network information, SDK authentication related request result, mobile phone number Device information: device identifier (IMEI, IDFA, Android)
+ID, MAC, OAID and other related information), application information (application crash information, notification switch status, software list and other related information), device parameters and system information (device type, device model, operating system and hardware related information)
+It is used to realize App one-click login and verify whether the user's mobile phone number is consistent with the local traffic card number
+One-click login
+Embedded third party sdk, used to integrate China Mobile, China Unicom, China Telecom non-secret certification product capabilities
+https://tensdk.com/commit-detail/rcc5zd/fd21s8
+Obtained the second level of information system protection, ISO27001 information security management system certification
+China Mobile Internet Limited
+Mobile SDK
+Network type, network address, carrier type, local number, international mobile Subscriber Identification code, sim card number identification card status, mobile device type, mobile phone operating system, hardware manufacturer
+One-click login based on mobile number
+One-click login
+Embedded third-party SDK for integrating China Mobile's non-secret authentication product capabilities
+http://wap.cmpassport.com/resources/html/contract.html
+Obtain the third level of information system protection
+China United Network Communications Co., Ltd. Beijing branch/Xiaowo Technology Co., LTD
+Unicom SDK
+IMSI, preferred card, IP address, local number
+One-click login based on mobile number
+One-click login
+Embedded third-party SDK is used to integrate China Unicom's secret-free authentication product capabilities
+https://ms.zzx9.cn/html/oauth/protocol2.html
+Obtain the third level of information system protection
+Century Dragon information network limited liability company
+Telecom SDK
+Network IP address, network type, network connection status, and local number
+One-click login based on mobile number
+One-click login
+Embedded third party SDK for integration of China Telecom non-secret certification product capabilities
+https://e.189.cn/sdk/agreement/detail.do?isWap=true&hidetop=true&appKey=
+Obtain the third level of information system protection
+Second hand Information Technology Co., LTD
+Second hand API
+MAC address, unique device identifier (IMEI, Android ID, IDFA, OPENUDID, GUID)
+Media inquiry Millward Brown labels are used to increase the TA concentration of advertising projects
+Data monitoring
+API interface query
+https://www.miaozhen.com/cn/privacy
+Millward Brown complies with the provisions of the Cybersecurity Law and other relevant laws and regulations, and fulfills its cybersecurity protection obligations; Have the Level 3 qualification and set up a data security committee within the group; Personal user information for business flow shall be encrypted in accordance with industry requirements; Firewalls are installed at the network layer to prevent high-risk vulnerabilities such as SSH, mysql, redis, and mongodb from being directly exposed to the public network. The network between different services is isolated and services such as traffic are monitored in real time
+Zhejiang Daily Interactive Network Technology Co., LTD
+Image SDK
+OAID/IDFA
+Provide user base portrait, to provide users with more accurate services and content recommendation, SSID, BSSID
+User base profile
+Embed third-party SDKS that collect and transmit personal information
+https://www.getui.com/privacy
+1, the push has the information system security level protection of the three-level filing certificate, 2, the push has A considerable number of head customers app access, many of which are sensitive to information financial banking customers, 3, the push has been listed in April this year in A share, strictly abide by the national security supervision
+Shanghai Haoyu Culture Media Co., LTD
+Ford China API
+Name, gender, phone number, location information, purchase time, dealer selection
+Get user information, invite a test drive
+Display advertising
+Advertising promotion
+https://www.lincoln.com.cn/privacy/?from=groupmessage&isappinstalled=0
+Sign the data security protection commitment
+Beijing Pinyou interactive information technology joint-stock company
+Pinyou API
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://www.ipinyou.com.cn/privacy_policy
+Data label desensitization is performed
+Jiahe (Beijing) Information Technology Co., LTD
+ReachMax
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.addnewer.com/#/pc/privacypolicy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information
+Shanghai Zhangzhitao Information Technology Co., LTD
+Mobtech second test SDK
+System operating information, common device identification (OAID, IMEI), SIM card identification code (ICCID), SIM card serial number (simserial), network status information, and mobile phone number
+Provide developers with one-click authentication login services to help business parties improve user login experience, reduce costs and increase efficiency
+One-click login
+Embed third-party SDKS that collect and transmit personal information
+http://policy.zztfly.com/sdk/verify/privacy
+Obtained ISO9001:2015 data processing and SDK software design and development system certification, ISO/IEC 20000-1:2018 application software development and operation and maintenance service system certification, ISO/IEC
+27001:2013 Internet application software technology development and operation and maintenance information security management system certification. And has a national network security level three guarantee, promising that its information security management system meets the high standards of personal information protection laws and regulations at home and abroad.
+Hangzhou Ali mother Software service Co., LTD
+Tanx
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao201703241622_61002.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Pizer Network Technology Co., LTD
+Pizer
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://www.pagechoice.com/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Meishu Advertising Co., LTD
+beauty
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://wwww.atdplus.cn/html/privacy-policy/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Hangzhou Yunmeng number wisdom Technology Co., LTD
+Yunmeng
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://geqi.getui.com/#/privacy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shenzhen Qianhai New Zhijiang Information Technology Co., LTD
+Pinduoduo
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.pinduoduo.com/pdd_privacy_policy.pdf
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user's trustBreath.
+Guangxi Jingdong new Jie e-commerce Co., LTD
+Jingdong Tiangong System
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://about.jd.com/privacy/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Minglue Zhaohui Technology Co., LTD
+Nequal
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.mininglamp.com/privacy/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Mi Fu network Technology Co., LTD
+Rice fu
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://ssp.mdfull.com/doc/privacy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Honor Terminal Limited
+honour
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.hihonor.com/cn/privacy/privacy-policy/
+We will process your personal information in accordance with the principles of legality, legitimacy and necessity. Unless required by law or regulatory authorities, we will comply with this policy and protect your privacy and personal information in accordance with industry proven security standards
+Jiangxi Travel Information Technology Co., LTD
+A trip to
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://www.zxrtb.com/privacy-policy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Mobile Advertising Co., LTD
+inmobi
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.inmobi.cn/privacy-policy/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Xiangxiang Network Technology Co., LTD
+Hidden fragrance
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+None
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Dormon Ruida Technology (China) Co., LTD
+multi-union
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.domob.cn
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Pan for information technology Co., LTD
+generality
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://www.fancydigital.com.cn/html/privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Grui Innovation Technology Co., LTD
+Maple mist
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://www.maplehaze.cn
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Jixin Technology Co., LTD
+Gikhin
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.jixinkeji.com/privacypolicy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Jiadou Internet Technology Group Co., LTD
+Jiaitou
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.jiaads.com/moudle/private.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Suyi Xinglian Technology Co., LTD
+billow
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://pub.billowlink.com/?#/PrivacyPolicy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Juao de industry cultural development Co., LTD
+gather
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.adinall.com
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Iflytek Co., Ltd.
+IFlytek
+Networking mode, mobile phone brand and model, client portNumber, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.voiceads.cn/ai-help.html?id=220
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Mengzhong Culture media Co., LTD
+A surname
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+None
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing soft information Technology Co., LTD
+Soft complaint
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://www.rgyun.com
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Rui Lion Network Technology Co., LTD
+Raylion
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://vlion.cn/privacy/index
+Industry-standard security measures have been used to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Wangmai Information Technology (Shanghai) Co., LTD
+Vigorous pulse
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://www.adwangmai.com
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Xinyi Internet (Beijing) Technology Co., LTD
+Xinyi Internet
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://adtalos.com/privacy-policy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Youyi Interconnect (Beijing) Advertising Co., LTD
+Ueascom
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.yoyi.com.cn/Privacy-policy.html
+yoyi has obtained the third-level data security certification of the Ministry of Industry and Information Technology, which can effectively prevent the leakage of data that media and customers focus on.
+Beijing Zhongsheng advertising media Co., LTD
+Zhongsheng Advertising
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+None
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Qipay Technology Co., LTD
+360 Alliance
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://i.360.cn/reg/privacy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Tianjin fast friends century Technology Co., LTD
+Adview
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.adview.cn/about/company
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Guangdong Huantai technology Co., LTD
+OPPO Alliance
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://privacy.oppo.com/cn/policy/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Guangdong Tianchen Network Technology Co., LTD
+vivo
+Network mode, mobile phone brand and model, client port number, device IP address, device ID (imei, Android) id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, system update time, operating system version number, ua, device screen width, device phone screen height, application package name, and application version number
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://adnet.vivo.com.cn/home/agreement/18
+Cooperation with ink is api access, vivo cannot obtain information other than the ink report, data security related to our contract terms shall prevail
+Huawei Software Technologies Co., LTD
+Huawei alliance
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://developer.huawei.com/consumer/cn/doc/distribution/monetize/yinsishengming-0000001085219712
+Huawei takes the security of personal information seriously, and we adopt industry standard practices to protect your personal information from unauthorized access, disclosure, use, modification, damage or loss.
+Tencent Technology (Chengdu) Co., LTD
+Tencent games can win
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://yky.qq.com/doc/agreement/privacy-policy
+We have used industry-standard security measures to protect the personal information provided by end users,
+Protect data from unauthorized access, public disclosure, use, modification, destruction, leakage or loss. We use industry-leading technology protection measures. The technical means we use include, but are not limited to, firewalls, encryption (such as SSL), de-identification or anonymization, access control measures, etc. We have established management systems, processes and organizations dedicated to protecting the security of personal information. We will also review the tubeSystems, processes and organizations,
+To prevent unauthorized persons from accessing, using, or disclosing end-user information.
+Shanghai new number Network Technology Co., LTD
+New number
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://wisemedia.cn/index.php?r=site/politic
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Edian Technology Co., LTD
+Edian
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://video.ydmob.com/sunly/yinsi.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Suzhou Yue Meng Information Technology Co., LTD
+saltation
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+https://www.deepleaper.com/index.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing spin vision Technology Co., LTD
+spin
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Connect to third-party apis to collect and transmit personal information
+http://www.spin-view.com/privacypolicy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Nyer Market Research (Shanghai) Co., LTD
+nyer
+Device mac address, unique device identifier (IMEI, OAID, AndroidID, IDFA), device UA, device type, operating system type, operating system version, device brand, device model, IP address;
+Attribution of third party advertising
+Data monitoring
+Connect to third-party apis to collect and transmit personal information
+https://www.in-neo.com/privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+CCTV Market Research Co. LTD
+CTR
+idfa, imei, imei_md5, mac, Android id, oaid, ip
+Provide advertising data monitoring services
+Data monitoring
+Connect to third-party apis to collect and transmit personal information
+https://www.ctrchina.cn/rich/protect
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Guangxi Jingdong new Jie e-commerce Co., LTD
+Jingdong
+idfa, imei, imei_md5, mac, Android id, oaid, ip
+Provide advertising data monitoring services
+Data monitoring
+Connect to third-party apis to collect and transmit personal information
+https://about.jd.com/privacy/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Hangzhou Ali mother Software service Co., LTD
+Tmall
+ip, os, idfa, imei, imei_md5, oaid, mac, ua, ts, Android id, ali_aaid
+Provide advertising data monitoring services
+Data monitoring
+Connect to third-party apis to collect and transmit personal information
+https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao201703241622_61002.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Tenghui Software Technology Co., LTD
+rtbasia
+idfa, imei, imei_md5, mac, Android id, oaid, ip
+Provide advertising data monitoring services
+Data monitoring
+Connect to third-party apis to collect and transmit personal information
+https://rtbasia.com/privacy/#pointd
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Guoshuang Technology Co., LTD
+gridsum
+idfa, imei, imei_md5, mac, Android id, oaid, ip
+Provide advertising data monitoring services
+Data monitoring
+Connect to third-party apis to collect and transmit personal information
+https://www.gridsum.com/policy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Tengyun Tianxia Technology Co., LTD
+talkingdata
+idfa, Android id, imei, oaid
+Provide advertising data monitoring services
+Data monitoring
+Connect to third-party apis to collect and transmit personal information
+https://www.talkingdata.com/privacy.jsp?languagetype=zh_cn
+Talking
+Data will be in strict accordance with the requirements of laws and regulations and industry standards and related business needs for data mobile phone, desensitization processing, encryption transmission; The anonymous TDID is used as the primary key of entity identification to associate with business data, removing the specific ID that can directly identify the entity, and ensuring the balance between data availability and security. When providing data to external organizations and exchanging data with partners through cooperation, measures such as SMC front-end machine crowd package will be adopted to implement the security risk control mechanism of shared data, and diaries will be recorded and retained to reduce security risks in data sharing scenarios.
+Hangzhou Alibaba Chuangmo Information Technology Co., LTD
+Ali Mama
+ip, imei, mac, androidid, idfa, oaid
+Provide advertising data monitoring services
+Data monitoring
+Connect to third-party apis to collect and transmit personal information
+https://terms.alicdn.com/legal-agreement/terms/suit_bu1_ali_mama_division/suit_bu1_ali_mama_division202107201832_24375.h tml
+Industry-standard security measures have been used to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Chongqing Jingdonghai Jia e-commerce Co., LTD
+Jingzhuotong
+1, [double-end] equipment manufacturer, equipment model, equipment name, equipment industry name, equipment brand, equipment network code, system version, SIM card status, sensor and other basic equipment information
+2. [Android only] System fingerprint and SD card status information
+3, [double-ended] IP address, network information
+4, [iOS only] Device identifier (such as IDFA)
+Provide commercial advertising resources
+Display advertising
+Connect to third-party SDKS to collect and transmit personal information
+https://opendoc.jd.com/janGroup/help/agreement/privacy.html
+(1) In accordance with the industry's mature security standards and norms, take reasonable security measures (including technical and management aspects) to protect the personal information of end users, and prevent the personal information provided by end users from being improperly used or unauthorized access, public disclosure, use, modification, damage, loss or disclosure.
+(2) We will adopt reasonable and feasible security measures and technical means such as encryption technology and anonymization in line with industry standards to store and protect end users' personal information, and use trusted security protection mechanisms to prevent end users' personal information from malicious attacks.
+(3) We will fully protect the personal information security of end users by establishing security management departments, security management systems, data security management processes and other measures, while adopting strict data use and access systems to ensure that only authorized personnel can access the personal information of end users, and conduct security audits of data and technology in a timely manner.
+Shence Network Technology (Beijing) Co., LTD
+Shenze SDK
+1. [iOS] Device information (IDFA, IDFV, Mac address, etc.), log information (IP address, access URL), location information, etc.;
+2. [Android] device information (IMEI, Android ID, Mac address, etc.), log information (IP address, access URL), location information, etc
+For data analysis and intelligent operations
+Data analysis and operation
+Connect to the SDK, which collects and transmits personal information
+https://manual.sensorsdata.cn/sa/latest/tech_sdk_client_compliance-22252692.html
+Network security protection, ISO/IEC 27001, ISO/IEC 27701, ISO 9001, CMMI 3 and SDK safety assessment, specific see: https://www.sensorsdata.cn/trust/compliance.html
+Google
+Mobile phone systems support framework (cn) nineton) baselibrary, AndroidSupportLibraryCompat)
+Read the contents of the SD card, modify/delete the contents of the SD card, read the status and identity of the phone
+etpack is a set of libraries, tools, and guidelines that make it easier for developers to write quality apps. These components help you follow best practices, eliminate boilerplate code, and simplify complex tasks so you can focus on the code that matters. Jetpack includes a platform API independent androidx.* package library. This means that it provides backward compatibility and is updated more frequently than the Android platform, ensuring that you always have the latest and greatest version of Jetpack components.
+When using the App
+SDK acquisition
+https://policies.google.com/privacy#infocollect
+Use encryption technology to ensure that your data remains private during transmission; Provide multiple security features to help you protect your account; To review our practices for collecting, storing, and processing information (including physical security measures) to prevent unauthorized access to our systems, see https://safety.google
+Ali Cloud Computing Co. LTD
+Alibaba Cloud Player SDK, short video SDK, upload SDK
+UUID, device model, and IP address
+Provide you with stable, smooth and rich services for audio and video playback and storage.
+Video upload storage, video playback
+Embedded third party SDK, SDK to collect and transmit personal information
+https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202112151438_20307.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information
+Shanghai Huansheng Advertising Co., LTD
+YUMCAD
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Personal information is collected and transmitted to third-party apis and interfaces
+http://www.yumchina.com/statement
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Ctrip Travel Information Technology (Shanghai) Co., LTD
+Ctrip
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Personal information is collected and transmitted to third-party apis and interfaces
+https://contents.ctrip.com/huodong/privacypolicypc/index?type=0
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Miman Technology Co., LTD
+Rice man
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Personal information is collected and transmitted to third-party apis and interfaces
+http://www.mix-mind.com/privacypolicy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Daily Interactive Inc
+A push user runs the SDK
+1. Device Information: The Device identification number (see "Privacy Policy") will be used to generate a unique user ID, GTCID. GTCID will be used for data deduplication and statistics of different dimensions, which can be applied to scenarios such as advertising traffic distribution. Device platform, device manufacturer and brand, device model and system version, device serial number help us to help you generate a richer portrait, such as analyzing the advertising effect of different users, and corresponding adaptation according to different device information, so as to provide accurate products and services.
+2, application related information: including but not limited to channels, time stamps, page unique identification, user click events, this information helps us to help you understand your users' interests and hobbies, to achieve multidimensional statistical analysis, so as to display content that is more in line with your users' needs, such as to help you make decisions about advertising related services, reduce unnecessary information to disturb your users.
+3, Network information, SSID, BSSID and location-related information: Network information helps us to help you determine the network status, so as to provide services such as pre-loading content under wifi only, such as advertising pre-loading, to reduce the loss of mobile traffic; Location information helps us to help you provide content and services that better match your user preferences.
+Carry out multidimensional and multi-indicator statistical analysis on the data, form a user portrait, further understand the needs of users, help make decisions and suggestions on advertising and related services, and improve the effective advertising reach rate.
+It is used for statistical analysis, content preloading, and advertising traffic distribution
+Embedded third party SDK, SDK to collect and transmit personal information
+https://docs.getui.com/privacy
+Ministry of Public Security information system security level protection level three certification, Ministry of Public Security SDK security certification, ISO9001 quality management system certification, ISO27001 information security management system certification, Central Network Information Office, Ministry of Industry and other institutions "mobile information trusted selection" certification, China Academy of Information and Communications Technology "Zhuoxin Big Data plan - Big Data platform special" certification
+Golden Arch (China) Co. LTD
+McDonald's APP/ mini program
+Mobile phone number
+Issue event coupons
+Issue event coupons
+API docking
+https://www.mcdonalds.com.cn/page/Privacy-Policy/
+Has the information system security issued by the Ministry of Public Security level three guarantee
+ https://www.mcdonalds.com.cn/page/Privacy-Policy/
+Jingmeng Century (Beijing) Technology Co., LTD
+Nebular platform
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Personal information is collected and transmitted to third-party apis and interfaces
+https://unjmz.com/jm/privacy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+One Way Technology (Guangzhou) Co., LTD
+Straw hat
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Personal information is collected and transmitted to third-party apis and interfaces
+http://www.yidaomobi.com/privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Hangzhou Yi Hong advertising Co., LTD
+Tanx SDK
+Device identifiers: (IOS) IDFA (Android) OAID (Dual-ended) IMEI and OPEN UDID
+Device information: (Dual-terminal) Device type, device model, phone manufacturer, phone brand, operating system, operating system version, resolution, current network access type, network operator, device density, screen orientation (IOS) Device basic information, such as device startup time, device language, device name, device memory and hard disk space, system update time, device time zone
+Application information: (double-ended) version number, application package name, acceleration sensor information
+(IOS) Application installation information
+Advertising behavior information: (dual) advertising exposure, click, interaction
+Provide commercial advertising resources
+Display advertising
+Embed third-party SDKS that collect and transmit personal information
+https://terms.alicdn.com/legal-agreement/terms/suit_bu1_ali_mama_division/suit_bu1_ali_mama_division202202171548_47251.h tml
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing orange grapefruit Technology Co., LTD
+TANGELO
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Personal information is collected and transmitted to third-party apis and interfaces
+http://openadx.tangelo.com.cn/policy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. adoptTake all reasonably practicable measures to protect your user information.
+Shanghai Hao Chain Information Technology Co., LTD
+The new Contech H5
+IP, ua
+Provide commercial advertising resources
+Display advertising
+The h5 page is obtained in Javascript
+https://www.privacy.haleon.com/zh-cn/privacy-principles/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Guangzhou Aihe network technology Co., LTD
+Super Huichuan
+Device information: Including device identifiers (IMEI, IDFA, Android ID, MAC, OAID, IMSI and other device-related information), device parameters and system information (device type, device model, operating system and hardware related information), device network environment information (IP address, WiFi information, etc.) Base station information and other network related information). The actual collection of the product shall prevail.
+Provide advertising services
+Display advertising
+Connect to Ali Huichuan API, interface to collect and transmit personal information
+http://image.uc.cn/s/uae/g/2p/super_hc/superhcapp-privacy.html
+We have taken reasonable and practicable security measures in line with industry standards to protect your information from unauthorized access, public disclosure, use, modification, damage or loss of personal information. For example, we will use encryption technology to improve the security of personal information, the exchange of data between your browser and the server is protected by SSL protocol encryption, we provide HTTPS protocol secure browsing; We use trusted protection mechanisms to protect personal information from malicious attacks; We deploy access control mechanisms to ensure that only authorized personnel have access to personal information.
+Beijing Youjing Network Technology Co., LTD
+faraway
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://www.youjingnetwork.com/app/privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing miles network technology Co., LTD
+Not miles (miles)
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://web.9zas5.com/privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Baixun Information Technology (Shanghai) Co., LTD
+Baixun
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://www.bxadsite.com/privacy-policy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shenzhen Ruidian star chain Technology Co., LTD
+Bear, Rui Point
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+http://www.do-global.com/zh_CN/privacy/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Xiaoyun power Information Technology Co., LTD
+cloudlet
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+http://ssp.publisher.yunjuhe.cn/publishers/privacy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Hainan Jumulti-point technology Co., LTD
+Huaxia Leyou
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://lemon.gameley.com/PrivacyPolicy/
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing digital joy movement technology Co., LTD
+Digital joy
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://adsmilemg.datads.cn/privacy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Wohong Network Technology Co., LTD
+Wo Hong
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://pic.whongtec.com/h5/privacypolicy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Guangzhou Shunfei Information Technology Co., LTD
+Shunfei
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+http://pre.admin.bidex.cn/privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Shanghai Anfu advertising Co., LTD
+ubix
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://www.ubixai.com/ubix_privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Reading Star River Network Technology Co., LTD
+Read the stars
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://web.yuelanxinghe.com/privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Hi quantity technology Co., LTD
+High dose
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interfacehttps://halomobi.com/halo_privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Manstar Technology Co., LTD
+Anime star
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://iwave.net.cn/pages/terms-privacy_chezhishi.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Brucken (Beijing) Technology Co., LTD
+Brucken
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+http://pub.m.bestadprof.com/privacy.html
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Three fast online technology Co., LTD
+Meituan Home
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://rules-center.meituan.com/rules-detail/2
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Lingju Technology Co., LTD
+Lingkui
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://adm.hs.lingjuad.com/privacy-policy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Zhongyuan care technology development Co., LTD
+Median concern
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+http://img.wavedsp.tech/rule/%E9%9A%90%E7%A7%81%E5%8D%8F%E8%AE%AE3.1
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing digital joy movement technology Co., LTD
+Digital joy
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time.
+Provide commercial advertising resources
+Display advertising
+Collect and transmit personal information through the API interface
+https://adsmilemg.datads.cn/privacy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Beijing Suyin Technology Co., LTD
+WAY.IO intelligent advertising delivery system and algorithm model
+Advertising delivery system module and API interface
+Mobile Internet advertising
+Through training, teaching, localization deployment, program system deployment, and applied to Party A's Internet advertising delivery system environment
+Localization deployment /API docking
+No third party personal information is involved, and all codes are deployed to process MD5 encrypted traffic ids
+8.1 Data storage mode: Device ids are stored in MD5 encryption mode, and data is stored in the production Intranet environment of the company with high security level;
+8.2 Data permission control and approval process: permission control, internal approval process and log recording of data viewing, modifying, deleting, uploading, downloading, importing, exporting and other operations;
+8.3 Server security: Cloud desktop + fortress machine mode, all employees involved in data rights use cloud desktop work, all servers are hosted on the fortress machine;
+8.4 Security level assessment: It has passed the assessment of "Platform Data Security Capability" of China Academy of Information and Communications Technology.
+Beijing iQiyi Technology Co., LTD
+iqiyi
+Networking mode, mobile phone brand and model, client port number, device IP address, device id (imei, Android id, idfa, oaid, openudid), operating system identifier unqid, device MAC address, latitude and longitude, system initialization time, system startup time, and system update time
+Provide advertising services
+Display advertising
+Collect and transmit personal information through the API interface
+https://union.iqiyi.com/platform/privacyPolicy
+You have used industry-standard security measures to protect your user information against unauthorized access, public disclosure, use, modification, loss or loss of data. Take all reasonably practicable measures to protect your user information.
+Share personal information field definition and summary
+Device MAC address: The MAC address of the device, the address that confirms the location of the device on the network
+Unique device ID: IDFA, IMEI, OAID, Android_ID, IMSI, MEID
+Location information: indicates the geographical location of the device, such as latitude and longitude
+Device IP address: Mobile Internet Connection protocol, confirming the network connection to the carrier service
+Device information: Device brand, device model, operating system, and version
+Network information: The network environment, such as Wi-Fi, 5G, 4G, 3G, 2G
+Operator information: Mobile, Unicom, Telecom
